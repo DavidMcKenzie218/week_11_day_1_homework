@@ -1,0 +1,5 @@
+section
+  >ul   -class of cat             --Where each cat starts
+    >li - (name)
+    >li - (food)
+    >img
